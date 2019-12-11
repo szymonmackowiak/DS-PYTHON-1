@@ -42,17 +42,3 @@ Zadania:
 1. Korzystaj¹c ze s³ownika, utwórz funkcjê, która bêdzie zwracaæ liczbê dni danego miesi¹ca w roku.
 
 2. Korzystaj¹c ze s³ownika, utwórz funkcjê, która bêdzie zwracaæ t³umaczenia nazw miesiêcy z jêzyka polskiego na angielski.
-
-3. Korzystaj¹c z instrukcji "sum" i "len" utwórz funkcjê zwracaj¹c¹ œredni¹ z elementów listy.
-
-4. Korzystaj¹c ze standardowej listy oraz jej metody sort utwórz funkcjê wyszukuj¹c¹ medianê w liœcie.
-
-5. Korzystaj¹c z biblioteki collections oraz obiektu Counter i metody most_common utwórz program wyznaczaj¹cy medianê.
-
-6. Utwórz funkcjê, która na podstawie listy elementów zwróci listê czêstotliwoœci wyst¹pieñ poszczególnych elementów
-
-7. Utwórz funcjê, która zwróci zakres wartoœci (wartoœæ najmniejsza i najwiêksz¹).
-
-8. Utwórz fukcjê obliczaj¹c¹ odchylenie standardowe.
-
-9. Utwórz funckjê obliczaj¹c¹ wspó³czynnik korelacji pomiêdzy dwoma zestawami danych. 
