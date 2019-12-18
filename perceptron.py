@@ -31,14 +31,28 @@ class Perceptron():
         blad = poprawna_odp - odp
         for i in range(self.liczba_wejsc):
             self.waga[i] = self.waga[i] + self.stala_uczenia*blad*x[i]
+            
+
+def cel(xp, yp):
+    y_linii = xp
+    if (y_linii - yp)>0:
+        return -1
+    else:
+        return 1
+
+p = Perceptron(3, 0.05)    
+
+for i in range(500):
+    x = []
+    x.append(40*np.random.rand(1)[0]-20)
+    x.append(40*np.random.rand(1)[0]-20)
+    x.append(1)
+    
+    poprawna_odp = cel(x[0], x[1])
+    
+    p.dopasuj(x, poprawna_odp)
+    
         
-        
-        
-#    def strojenie(self, x, poprawna_odp):
-#        odp = self.odpowiedz(x)
-#        blad = poprawna_odp - odp
-#        for i in range(self.liczba_wejsc):
-#            self.waga[i] = self.waga[i] + self.stala_uczenia*blad*x[i]
         
         
         
