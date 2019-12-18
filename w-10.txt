@@ -1,0 +1,11 @@
+Klasy i obiekty cz.2 i pakiet Pandas:
+
+1. Utwórz klasê Vector2D. Wykorzystaj ca³¹ wiedzê jak¹ posiadasz na temat wektorów na p³aszczyŸnie. Zdefiniuj wszystkie znane Ci operacje.
+
+2. Utwórz klasê Vector3D. Wykorzystaj ca³¹ wiedzê jak¹ posiadasz na temat wektorów w przestrzeni. Zdefiniuj wszystkie znane Ci operacje.
+
+3. Utwórz klasê Martix. Wykorzystaj ca³¹ wiedzê jak¹ posiadasz na temat macierzy. Zdefiniuj wszystkie znane Ci operacje.
+
+4. Utwórz klasê Perceptron zgodnie z modelem McCullocha-Pittsa. PrzeprowadŸ eksperyment uczenia neuronu - niech rozpoznaje czy wybrany punkt o wspó³rzêdnych x, y znajduje siê powy¿ej lub poni¿ej zadanej prostej.
+
+5. Zapoznaj siê z danymi dotycz¹cymi ofiar katastrofy Titanica. W oparciu o artyku³ zawarty na stronie: https://stackabuse.com/pandas-library-for-data-visualization-in-python/ wykonaj analizê pliku z danymi.
